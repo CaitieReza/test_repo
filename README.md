@@ -1,4 +1,4 @@
-# This is my Repo
+# This is my Repo, NERD
 
 For ESM 206 Week 4 **discussion**!
 
