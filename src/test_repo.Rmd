@@ -1,0 +1,23 @@
+---
+title: "test_file"
+author: "Caitie Reza"
+date: "10/30/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggplot2)
+```
+
+
+```{r}
+
+```
+
+```{r}
+ggplot(data = mpg, aes(x = class, y = cty)) +
+  geom_jitter()
+```
+
